@@ -1,4 +1,7 @@
-# api documentation for  [gifencoder (v1.0.6)](https://github.com/eugeneware/gifencoder)  [![npm package](https://img.shields.io/npm/v/npmdoc-gifencoder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gifencoder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gifencoder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gifencoder)
+# npmdoc-gifencoder
+
+#### basic api documentation for  [gifencoder (v1.0.6)](https://github.com/eugeneware/gifencoder)  [![npm package](https://img.shields.io/npm/v/npmdoc-gifencoder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gifencoder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gifencoder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gifencoder)
+
 #### Streaming server-side animated (and non-animated) gif generation for node.js
 
 [![NPM](https://nodei.co/npm/gifencoder.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gifencoder)
@@ -78,7 +81,8 @@
     "scripts": {
         "test": "grunt ci"
     },
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "bin": {}
 }
 ```
 
